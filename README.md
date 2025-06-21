@@ -7,8 +7,12 @@ I'm a **Software Architect** and **Ph.D. student in Medical Informatics**, passi
 
 As a **software architect**, I focus on creating robust systems, improving developer experience, and enabling clean, maintainable codebases.
 
-
-
+- 🛠️ Tech stack: Python, TypeScript, Django, PostgreSQL, Redis, Docker, Azure.
+- 🧰 Using tools like `ruff`, `uv`, `pytest`, `mypy`, `pre-commit` and `devcontainer` to automate code quality and enforcement.
+- 🔄 Promoting clean architecture, typed APIs, and modular design patterns 
+- 🚀 Setting up CI/CD pipelines (`Github Actions` or `Azure Pipelines`) and testing workflows for rapid, safe delivery  
+- 🧑‍💻 Passionate about internal tooling, documentation (e.g. [ADRs](https://adr.github.io/) or [ARC42](https://docs.arc42.org/home/)), and developer experience
+- 📦 Dev environment: see my [DevContainer python template project](https://github.com/Paul-B98/python-project-template)
 
 ## 🎓 Academic
 
