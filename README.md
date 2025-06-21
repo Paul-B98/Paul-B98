@@ -30,7 +30,7 @@ As a developer in my free time, I enjoy experimenting with tools and simply lear
 - 📚 Exploring new tools, frameworks, and languages back and forth  
 - 🧪 Automating tasks, building prototypes, and trying out weekend ideas  
 - 🏁 Hackathons: you’ll find me there every year if I have the chance  
-- 🛠 Planning `erp@Home`, a lightweight, modular ERP system for personal use
+- 🛠 Planning `ERP@Home`, a lightweight, modular ERP system for personal use
 
 
 ---
