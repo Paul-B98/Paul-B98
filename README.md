@@ -21,7 +21,7 @@ As a **Ph.D. student in medical informatics**, I'm trying to make sense of ICU d
 - 🧑‍🔬 Research: available via our [GitHub group (AIDH MS)](https://github.com/aidh-ms) or my [ORCID](https://orcid.org/0009-0002-8163-0989)  
 - 🚧 Current projects: [MedMiner](https://github.com/aidh-ms/MedMiner) and [OpenICU](https://github.com/aidh-ms/OpenICU) for medical data extraction  
 - 🧠 Past research: [pyAKI](https://github.com/aidh-ms/pyAKI) for detecting acute kidney injury within time-series data  
-- 🎓 Teaching: my lecture on [AI](https://github.com/Paul-B98/wpf-ki) can be found on GitHub
+- 🎓 Teaching: my lecture on [AI Bascis](https://github.com/Paul-B98/lecture-ai-basics) and [AI Advanced](https://github.com/Paul-B98/lecture-ai-advanced) can be found on GitHub
 
 ## 🧑‍💻 Private
 
