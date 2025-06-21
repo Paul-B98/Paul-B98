@@ -28,6 +28,7 @@ As a **Ph.D. student in medical informatics**, I'm trying to make sense of ICU d
 As a developer in my free time, I enjoy experimenting with tools and simply learning.
 
 - 📚 Exploring new tools, frameworks, and languages back and forth  
+- 📖 Currently learning: `Rust`, ...
 - 🧪 Automating tasks, building prototypes, and trying out weekend ideas  
 - 🏁 Hackathons: you’ll find me there every year if I have the chance  
 - 🛠 Planning `ERP@Home`, a lightweight, modular ERP system for personal use
