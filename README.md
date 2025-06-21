@@ -25,7 +25,7 @@ As a **Ph.D. student in medical informatics**, I'm trying to make sense of ICU d
 
 ## 🧑‍💻 Private
 
-As a developer in my free time, I enjoy experimenting with tools and simply learning.
+As a **developer in my free time**, I enjoy experimenting with tools and simply learning.
 
 - 📚 Exploring new tools, frameworks, and languages back and forth  
 - 📖 Currently learning: `Rust`, ...
