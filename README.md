@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Paul
 
-I'm a **Software Architect** and **Ph.D. student in medical informatics**, passionate about building good software.
+I'm a **software architect** and **Ph.D. student in medical informatics**, passionate about building good software.
 
 ## 💼 Professional
 
