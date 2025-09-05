@@ -6,7 +6,7 @@ I'm a **software architect** and **Ph.D. student in medical informatics**, passi
 
 As a **software architect**, I focus on creating robust systems, improving developer experience, and enabling clean, maintainable codebases.
 
-- 🛠️ Tech stack: `Python`, `TypeScript`, `Django`, `PostgreSQL`, `Redis`, `Docker` and `Azure`  
+- 🛠️ Tech stack: `Python`, `Django`, `PostgreSQL`, `Redis`, `Docker` and `Azure`  
 - 🧰 Using tools like `ruff`, `uv`, `pytest`, `mypy`, `pre-commit`, and `devcontainer` to automate code quality and enforcement  
 - 🔄 Promoting clean architecture, typed APIs, and modular design patterns  
 - 🚀 Setting up CI/CD pipelines (`GitHub Actions` or `Azure Pipelines`) and testing workflows for rapid, safe delivery  
